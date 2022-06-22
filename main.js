@@ -1,5 +1,5 @@
 var images = ["https://i.postimg.cc/MGn9GJXw/family.jpg","https://i.postimg.cc/Gp9M8YgV/cartoon-cute-little-girl-waving-hand-353337-429.webp", "https://i.postimg.cc/rp1nTgvG/c29b3b0bc2055e8447e39ca1e2a14e2a.jpg", "https://i.postimg.cc/449GcTkB/image.png" , "https://i.postimg.cc/g2GhTWvK/1630269569-181417.png", "https://i.postimg.cc/bJ5X4mXy/220-2201098-grandma-clipart-png-grandmother-clipart.jpg", "https://i.postimg.cc/vm1kdQ39/download.png"];
-var names = ["Fmaily Book","Vidhi Naresh", "Bhavya Naresh", "Kapila Tandel", "Naresh Revia", "Rami Lalu" , "Revia Soma"];
+var names = ["Family Book","Vidhi Naresh", "Bhavya Naresh", "Kapila Tandel", "Naresh Revia", "Rami Lalu" , "Revia Soma"];
 var i = 0;
 function update()
 {
